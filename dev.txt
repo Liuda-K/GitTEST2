@@ -1,7 +1,2 @@
 456
-hhdgkduhgou
-<<<<<<< HEAD
-xdgbdhdjdjdfh
-=======
-76872658728756782
->>>>>>> a2b34041350e07caded8fc05f1ce9c6421569f32
+test343535644
