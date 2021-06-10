@@ -1,3 +1,7 @@
 1223
+<<<<<<< HEAD
 123456
 hdhgoidhoie
+=======
+123456jhgchskjkjbv
+>>>>>>> a2b34041350e07caded8fc05f1ce9c6421569f32
